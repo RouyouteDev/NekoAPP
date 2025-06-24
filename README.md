@@ -1,8 +1,7 @@
 NEKOAPP - Avec Discord Rich Presence Automatique
 ===========================================
 
-👤 Auteur -----------------------
-Projet développé par Rouyoute27@gmail.com → https://nekoanime.neocities.org
+👤 Auteur: Projet développé par Rouyoute27@gmail.com → https://nekoanime.neocities.org
 
 
 
