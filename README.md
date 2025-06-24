@@ -14,7 +14,7 @@ NEKOAPP - Avec Discord Rich Presence Automatique
 
 🚀 Lancer l'application -----------------------
 1. Ouvre simplement le fichier 📁:
-   >>> NekoApp.exe <<<
+   >>> NekoApp.exe
 
 2. L'application s'ouvre automatiquement sur :
    https://nekoanime.neocities.org 🌐
